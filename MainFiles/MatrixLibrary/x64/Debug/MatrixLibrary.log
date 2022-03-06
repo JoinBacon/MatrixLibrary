@@ -1,0 +1,8 @@
+﻿  Functions.cpp
+  Main.cpp
+  RClass.cpp
+C:\Users\Lenovo\source\repos\MatrixLibrary\MatrixLibrary\RClass.cpp(21,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\MatrixLibrary\MatrixLibrary\RClass.cpp(22,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\MatrixLibrary\MatrixLibrary\RClass.cpp(132,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  MatrixLibrary.vcxproj -> C:\Users\Lenovo\source\repos\MatrixLibrary\x64\Debug\MatrixLibrary.exe
